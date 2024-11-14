@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "67319bc0d0761853e775fe20",
+    "username": "pika",
+    "email": "pika@mail.com",
+    "password": "$2b$05$OakW9tZbVARRiN2kvKDQduX.RfvxE1GdlHvsnH5jXPsJYpbNMdKb2",
+    "__v": 0
+  },
+  {
+    "_id": "6731a18b9633005b314de922",
+    "username": "ulala",
+    "email": "ulala@mail.com1",
+    "password": "$2b$05$w.peytYVgARgF640JsuCn.PKwrk8Aq6lbDjUer.D6nq5npxe18zem",
+    "__v": 0
+  }
+]

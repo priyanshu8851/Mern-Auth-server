@@ -1,0 +1,717 @@
+2024-11-08 14:23:08 info: Server running on http://localhost:3001
+2024-11-08 14:26:09 info: Server running on http://localhost:3001
+2024-11-08 14:28:14 info: Server running on http://localhost:30012024-11-08 14:37:30 info: Server running on http://localhost:3001
+2024-11-08 14:37:30 info: Connected to MongoDB
+2024-11-08 14:37:55 info: User logged in successfully - shin@mail.com
+2024-11-08 14:37:57 info: Fetched user data for userId: 672dd2619d77b1a2811e999f
+2024-11-08 14:38:21 warn: Login failed: Email not found - shin@mail.comj
+2024-11-08 14:40:01 info: Server running on http://localhost:3001
+2024-11-08 14:40:01 info: Connected to MongoDB
+2024-11-08 14:40:04 warn: Login failed: Email not found - shin@mail.comj
+2024-11-08 14:41:18 warn: Login failed: Email not found - shin@mail.comj
+2024-11-08 14:45:23 error: An error occurred: Test error for logging
+2024-11-08 14:45:23 info: Server running on http://localhost:3001
+2024-11-08 14:45:23 info: Connected to MongoDB
+2024-11-08 14:45:31 info: User logged in successfully - shin@mail.com
+2024-11-08 14:45:33 info: Fetched user data for userId: 672dd2619d77b1a2811e999f
+2024-11-08 14:45:33 info: Fetched user data for userId: 672dd2619d77b1a2811e999f
+2024-11-08 14:45:47 warn: Login failed: Incorrect password for email - shin@mail.com
+2024-11-08 14:48:31 info: Fetched user data for userId: 672dd2619d77b1a2811e999f
+2024-11-08 14:49:00 warn: Login failed: Incorrect password for email - shin@mail.com
+2024-11-08 14:52:01 warn: Login failed: Incorrect password for email - shin@mail.com
+2024-11-08 14:52:05 info: Fetched user data for userId: 672dd2619d77b1a2811e999f
+2024-11-08 14:52:21 warn: Registration failed: Email already exists - shin@mail.com
+2024-11-08 14:53:45 error: An error occurred: Test error for logging
+2024-11-08 14:53:45 info: Server running on http://localhost:3001
+2024-11-08 14:53:45 info: Connected to MongoDB
+2024-11-08 14:54:06 error: Registration failed: Email already exists - shin@mail.com
+2024-11-08 14:54:25 error: An error occurred: Test error for logging
+2024-11-08 14:54:25 info: Server running on http://localhost:3001
+2024-11-08 14:54:25 info: Connected to MongoDB
+2024-11-08 14:54:27 error: An error occurred: Test error for logging
+2024-11-08 14:54:27 info: Server running on http://localhost:3001
+2024-11-08 14:54:27 info: Connected to MongoDB
+2024-11-08 14:55:14 info: Fetched user data for userId: 672dd2619d77b1a2811e999f
+2024-11-08 18:11:31 error: An error occurred: Test error for logging
+2024-11-08 18:11:31 info: Server running on http://localhost:3001
+2024-11-08 18:11:31 info: Connected to MongoDB
+2024-11-08 18:12:06 info: User logged in successfully - motu@mail.com
+2024-11-08 18:12:08 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:12:12 warn: Login failed: Email not found - 
+2024-11-08 18:12:20 info: User logged in successfully - motu@mail.com
+2024-11-08 18:12:22 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:12:22 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:13:32 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:13:51 warn: Login failed: Email not found - motu@mail.com1
+2024-11-08 18:13:57 warn: Login failed: Email not found - motu@mail.com1
+2024-11-08 18:13:58 warn: Login failed: Email not found - motu@mail.com1
+2024-11-08 18:14:06 info: User logged in successfully - motu@mail.com
+2024-11-08 18:14:07 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:14:24 info: User logged in successfully - motu@mail.com
+2024-11-08 18:14:26 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:14:29 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:14:29 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:14:30 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:14:30 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:14:47 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:14:49 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:14:52 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:14:57 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:14:58 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:15:08 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:15:15 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:15:18 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:15:23 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:17:24 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:17:43 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:18:11 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:18:14 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:18:16 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:23:28 info: Fetched user data for userId: 672dcfb8c43d80d6074dd68b
+2024-11-08 18:24:12 error: An error occurred: Test error for logging
+2024-11-08 18:24:12 info: Server running on http://localhost:3001
+2024-11-08 18:24:12 info: Connected to MongoDB
+2024-11-08 18:24:16 error: An error occurred: Test error for logging
+2024-11-08 18:24:16 info: Server running on http://localhost:3001
+2024-11-08 18:24:16 info: Connected to MongoDB
+2024-11-08 18:24:22 error: An error occurred: Test error for logging
+2024-11-08 18:24:22 info: Server running on http://localhost:3001
+2024-11-08 18:24:22 info: Connected to MongoDB
+2024-11-08 18:25:41 info: User registered successfully with email: nadir@mail.com
+2024-11-08 18:25:55 info: User logged in successfully - nadir@mail.com
+2024-11-08 18:25:56 info: Fetched user data for userId: 672e0a4d660e0fb365e15eca
+2024-11-08 18:25:56 info: Fetched user data for userId: 672e0a4d660e0fb365e15eca
+2024-11-08 18:26:00 info: Fetched user data for userId: 672e0a4d660e0fb365e15eca
+2024-11-08 18:26:00 info: Fetched user data for userId: 672e0a4d660e0fb365e15eca
+2024-11-08 18:26:02 info: Fetched user data for userId: 672e0a4d660e0fb365e15eca
+2024-11-08 18:26:02 info: Fetched user data for userId: 672e0a4d660e0fb365e15eca
+2024-11-09 16:19:37 error: An error occurred: Test error for logging
+2024-11-09 16:19:37 info: Server running on http://localhost:3001
+2024-11-09 16:19:37 info: Connected to MongoDB
+2024-11-09 16:20:09 info: User registered successfully with email: golu@mail.com
+2024-11-09 16:20:23 info: User logged in successfully - golu@mail.com
+2024-11-09 16:20:25 info: Fetched user data for userId: 672f3e61e560c31710695a79
+2024-11-09 16:20:25 info: Fetched user data for userId: 672f3e61e560c31710695a79
+2024-11-09 23:49:56 error: An error occurred: Test error for logging
+2024-11-09 23:49:56 info: Server running on http://localhost:3001
+2024-11-09 23:49:56 info: Connected to MongoDB
+2024-11-09 23:50:28 info: User registered successfully with email: suraj@mail.com
+2024-11-09 23:50:47 info: User logged in successfully - suraj@mail.com
+2024-11-09 23:50:48 info: Fetched user data for userId: 672fa7ec67721f97695911fa
+2024-11-09 23:50:48 info: Fetched user data for userId: 672fa7ec67721f97695911fa
+2024-11-09 23:52:48 info: User logged in successfully - suraj@mail.com
+2024-11-09 23:52:50 info: Fetched user data for userId: 672fa7ec67721f97695911fa
+2024-11-10 12:09:24 error: An error occurred: Test error for logging
+2024-11-10 12:09:24 info: Server running on http://localhost:3001
+2024-11-10 12:09:24 info: Connected to MongoDB
+2024-11-10 12:10:39 error: An error occurred: Test error for logging
+2024-11-10 12:10:39 info: Server running on http://localhost:3001
+2024-11-10 12:10:39 info: Connected to MongoDB
+2024-11-10 12:10:41 error: An error occurred: Test error for logging
+2024-11-10 12:10:41 info: Server running on http://localhost:3001
+2024-11-10 12:10:41 info: Connected to MongoDB
+2024-11-10 12:11:00 error: An error occurred: Test error for logging
+2024-11-10 12:11:00 info: Server running on http://localhost:3001
+2024-11-10 12:11:00 info: Connected to MongoDB
+2024-11-10 12:11:01 error: An error occurred: Test error for logging
+2024-11-10 12:11:01 info: Server running on http://localhost:3001
+2024-11-10 12:11:01 info: Connected to MongoDB
+2024-11-10 12:13:11 error: An error occurred: Test error for logging
+2024-11-10 12:13:11 info: Server running on http://localhost:3001
+2024-11-10 12:13:11 info: Connected to MongoDB
+2024-11-10 12:13:41 error: An error occurred: Test error for logging
+2024-11-10 12:13:41 info: Server running on http://localhost:3001
+2024-11-10 12:13:41 info: Connected to MongoDB
+2024-11-11 11:21:37 info: Server running on http://localhost:3001
+2024-11-11 11:21:37 info: Connected to MongoDB
+2024-11-11 11:23:04 info: User registered successfully with email: pika@mail.com
+2024-11-11 11:23:18 info: User logged in successfully - pika@mail.com
+2024-11-11 11:23:20 info: Fetched user data for userId: 67319bc0d0761853e775fe20
+2024-11-11 11:23:20 info: Fetched user data for userId: 67319bc0d0761853e775fe20
+2024-11-11 11:26:16 info: Server running on http://localhost:3001
+2024-11-11 11:26:17 info: Connected to MongoDB
+2024-11-11 11:27:05 info: Server running on http://localhost:3001
+2024-11-11 11:27:05 info: Connected to MongoDB
+2024-11-11 11:27:13 info: Server running on http://localhost:3001
+2024-11-11 11:27:13 info: Connected to MongoDB
+2024-11-11 11:27:17 info: Server running on http://localhost:3001
+2024-11-11 11:27:17 info: Connected to MongoDB
+2024-11-11 11:27:45 info: Server running on http://localhost:3001
+2024-11-11 11:27:45 info: Connected to MongoDB
+2024-11-11 11:28:00 info: Server running on http://localhost:3001
+2024-11-11 11:28:00 info: Connected to MongoDB
+2024-11-11 11:28:02 info: Server running on http://localhost:3001
+2024-11-11 11:28:02 info: Connected to MongoDB
+2024-11-11 11:28:11 info: Server running on http://localhost:3001
+2024-11-11 11:28:11 info: Connected to MongoDB
+2024-11-11 11:28:14 info: Server running on http://localhost:3001
+2024-11-11 11:28:14 info: Connected to MongoDB
+2024-11-11 11:30:14 info: Server running on http://localhost:3001
+2024-11-11 11:30:14 info: Connected to MongoDB
+2024-11-11 11:30:56 info: Server running on http://localhost:3001
+2024-11-11 11:30:56 info: Connected to MongoDB
+2024-11-11 11:31:05 info: Server running on http://localhost:3001
+2024-11-11 11:31:05 info: Connected to MongoDB
+2024-11-11 11:31:07 info: Server running on http://localhost:3001
+2024-11-11 11:31:07 info: Connected to MongoDB
+2024-11-11 11:31:18 info: Server running on http://localhost:3001
+2024-11-11 11:31:18 info: Connected to MongoDB
+2024-11-11 11:31:19 info: Server running on http://localhost:3001
+2024-11-11 11:31:19 info: Connected to MongoDB
+2024-11-11 11:32:23 info: Server running on http://localhost:3001
+2024-11-11 11:32:23 info: Connected to MongoDB
+2024-11-11 11:32:35 info: Server running on http://localhost:3001
+2024-11-11 11:32:35 info: Connected to MongoDB
+2024-11-11 11:33:00 info: Database backup saved to backup/users_2024-11-11_11-33-00.json
+2024-11-11 11:33:02 info: Server running on http://localhost:3001
+2024-11-11 11:33:02 info: Connected to MongoDB
+2024-11-11 11:33:17 info: Server running on http://localhost:3001
+2024-11-11 11:33:17 info: Connected to MongoDB
+2024-11-11 11:33:20 info: Server running on http://localhost:3001
+2024-11-11 11:33:20 info: Connected to MongoDB
+2024-11-11 11:33:40 info: Server running on http://localhost:3001
+2024-11-11 11:33:41 info: Connected to MongoDB
+2024-11-11 11:34:00 error: Error creating database backup: ENOENT: no such file or directory, open 'backup/users_2024-11-11_11-34-00.json'
+2024-11-11 11:34:30 info: Server running on http://localhost:3001
+2024-11-11 11:34:30 info: Connected to MongoDB
+2024-11-11 11:35:00 error: Error creating database backup: ENOENT: no such file or directory, open 'backup/users_2024-11-11_11-35-00.json'
+2024-11-11 11:35:32 info: Server running on http://localhost:3001
+2024-11-11 11:35:32 info: Connected to MongoDB
+2024-11-11 11:35:38 info: Server running on http://localhost:3001
+2024-11-11 11:35:38 info: Connected to MongoDB
+2024-11-11 11:35:41 info: Server running on http://localhost:3001
+2024-11-11 11:35:41 info: Connected to MongoDB
+2024-11-11 11:35:52 info: Server running on http://localhost:3001
+2024-11-11 11:35:52 info: Connected to MongoDB
+2024-11-11 11:35:55 info: Server running on http://localhost:3001
+2024-11-11 11:35:55 info: Connected to MongoDB
+2024-11-11 11:36:07 info: Server running on http://localhost:3001
+2024-11-11 11:36:07 info: Connected to MongoDB
+2024-11-11 11:36:12 info: Server running on http://localhost:3001
+2024-11-11 11:36:12 info: Connected to MongoDB
+2024-11-11 11:36:20 info: Server running on http://localhost:3001
+2024-11-11 11:36:20 info: Connected to MongoDB
+2024-11-11 11:36:35 info: Server running on http://localhost:3001
+2024-11-11 11:36:35 info: Connected to MongoDB
+2024-11-11 11:36:37 info: Server running on http://localhost:3001
+2024-11-11 11:36:37 info: Connected to MongoDB
+2024-11-11 11:36:39 info: Server running on http://localhost:3001
+2024-11-11 11:36:39 info: Connected to MongoDB
+2024-11-11 11:36:41 info: Server running on http://localhost:3001
+2024-11-11 11:36:41 info: Connected to MongoDB
+2024-11-11 11:36:43 info: Server running on http://localhost:3001
+2024-11-11 11:36:43 info: Connected to MongoDB
+2024-11-11 11:36:46 info: Server running on http://localhost:3001
+2024-11-11 11:36:46 info: Connected to MongoDB
+2024-11-11 11:37:00 error: Error creating database backup: ENOENT: no such file or directory, open ' C:/Users/priya/Desktop/intern/Login Register/backup/users_2024-11-11_11-37-00.json'
+2024-11-11 11:37:19 info: Server running on http://localhost:3001
+2024-11-11 11:37:19 info: Connected to MongoDB
+2024-11-11 11:37:24 info: Server running on http://localhost:3001
+2024-11-11 11:37:24 info: Connected to MongoDB
+2024-11-11 11:37:29 info: Server running on http://localhost:3001
+2024-11-11 11:37:29 info: Connected to MongoDB
+2024-11-11 11:38:00 info: Database backup saved to backup/users_2024-11-11_11-38-00.json
+2024-11-11 11:38:02 info: Server running on http://localhost:3001
+2024-11-11 11:38:02 info: Connected to MongoDB
+2024-11-11 11:39:00 info: Database backup saved to backup/users_2024-11-11_11-39-00.json
+2024-11-11 11:39:02 info: Server running on http://localhost:3001
+2024-11-11 11:39:02 info: Connected to MongoDB
+2024-11-11 11:40:00 info: Database backup saved to backup/users_2024-11-11_11-40-00.json
+2024-11-11 11:40:01 info: Server running on http://localhost:3001
+2024-11-11 11:40:01 info: Connected to MongoDB
+2024-11-11 11:46:50 info: Server running on http://localhost:3001
+2024-11-11 11:46:50 info: Connected to MongoDB
+2024-11-11 11:47:00 info: Database backup saved to backup/users_2024-11-11_11-47-00.json
+2024-11-11 11:47:01 info: Server running on http://localhost:3001
+2024-11-11 11:47:01 info: Connected to MongoDB
+2024-11-11 11:47:26 info: Fetched user data for userId: 67319bc0d0761853e775fe20
+2024-11-11 11:47:30 info: Fetched user data for userId: 67319bc0d0761853e775fe20
+2024-11-11 11:47:47 info: User registered successfully with email: ulala@mail.com1
+2024-11-11 11:48:00 info: Database backup saved to backup/users_2024-11-11_11-48-00.json
+2024-11-11 11:48:01 info: Server running on http://localhost:3001
+2024-11-11 11:48:01 info: Connected to MongoDB
+2024-11-11 11:49:00 info: Database backup saved to backup/users_2024-11-11_11-49-00.json
+2024-11-11 11:49:01 info: Server running on http://localhost:3001
+2024-11-11 11:49:01 info: Connected to MongoDB
+2024-11-11 11:49:21 info: Fetched user data for userId: 6731a18b9633005b314de922
+2024-11-11 11:49:33 info: User logged in successfully - ulala@mail.com1
+2024-11-11 11:49:35 info: Fetched user data for userId: 6731a18b9633005b314de922
+2024-11-11 11:49:58 warn: Login failed: Email not found - 
+2024-11-11 11:50:00 info: Database backup saved to backup/users_2024-11-11_11-50-00.json
+2024-11-11 11:50:01 info: Server running on http://localhost:3001
+2024-11-11 11:50:01 info: Connected to MongoDB
+2024-11-11 11:51:00 info: Database backup saved to backup/users_2024-11-11_11-51-00.json
+2024-11-11 11:51:02 info: Server running on http://localhost:3001
+2024-11-11 11:51:02 info: Connected to MongoDB
+2024-11-11 11:51:21 info: User logged in successfully - ulala@mail.com1
+2024-11-11 11:51:23 info: Fetched user data for userId: 6731a18b9633005b314de922
+2024-11-11 11:51:23 info: Fetched user data for userId: 6731a18b9633005b314de922
+2024-11-11 11:52:00 info: Database backup saved to backup/users_2024-11-11_11-52-00.json
+2024-11-11 11:52:02 info: Server running on http://localhost:3001
+2024-11-11 11:52:02 info: Connected to MongoDB
+2024-11-11 23:01:43 info: Server running on http://localhost:3001
+2024-11-11 23:01:43 info: Connected to MongoDB
+2024-11-11 23:02:00 info: Database backup saved to backup/users_2024-11-11_23-02-00.json
+2024-11-11 23:02:01 info: Server running on http://localhost:3001
+2024-11-11 23:02:01 info: Connected to MongoDB
+2024-11-11 23:19:37 info: Server running on http://localhost:3001
+2024-11-11 23:19:37 info: Connected to MongoDB
+2024-11-11 23:20:00 info: Database backup saved to backup/users_2024-11-11_23-20-00.json
+2024-11-11 23:20:01 info: Server running on http://localhost:3001
+2024-11-11 23:20:01 info: Connected to MongoDB
+2024-11-11 23:21:00 info: Database backup saved to backup/users_2024-11-11_23-21-00.json
+2024-11-11 23:21:01 info: Server running on http://localhost:3001
+2024-11-11 23:21:01 info: Connected to MongoDB
+2024-11-11 23:22:00 info: Database backup saved to backup/users_2024-11-11_23-22-00.json
+2024-11-11 23:22:01 info: Server running on http://localhost:3001
+2024-11-11 23:22:01 info: Connected to MongoDB
+2024-11-11 23:23:00 info: Database backup saved to backup/users_2024-11-11_23-23-00.json
+2024-11-11 23:23:01 info: Server running on http://localhost:3001
+2024-11-11 23:23:01 info: Connected to MongoDB
+2024-11-11 23:24:00 info: Database backup saved to backup/users_2024-11-11_23-24-00.json
+2024-11-11 23:24:01 info: Server running on http://localhost:3001
+2024-11-11 23:24:01 info: Connected to MongoDB
+2024-11-11 23:25:00 info: Database backup saved to backup/users_2024-11-11_23-25-00.json
+2024-11-11 23:25:01 info: Server running on http://localhost:3001
+2024-11-11 23:25:01 info: Connected to MongoDB
+2024-11-11 23:26:00 info: Database backup saved to backup/users_2024-11-11_23-26-00.json
+2024-11-11 23:26:01 info: Server running on http://localhost:3001
+2024-11-11 23:26:01 info: Connected to MongoDB
+2024-11-11 23:27:00 info: Database backup saved to backup/users_2024-11-11_23-27-00.json
+2024-11-11 23:27:01 info: Server running on http://localhost:3001
+2024-11-11 23:27:01 info: Connected to MongoDB
+2024-11-11 23:28:00 info: Database backup saved to backup/users_2024-11-11_23-28-00.json
+2024-11-11 23:28:01 info: Server running on http://localhost:3001
+2024-11-11 23:28:01 info: Connected to MongoDB
+2024-11-11 23:29:00 info: Database backup saved to backup/users_2024-11-11_23-29-00.json
+2024-11-11 23:29:01 info: Server running on http://localhost:3001
+2024-11-11 23:29:01 info: Connected to MongoDB
+2024-11-11 23:30:00 info: Database backup saved to backup/users_2024-11-11_23-30-00.json
+2024-11-11 23:30:01 info: Server running on http://localhost:3001
+2024-11-11 23:30:01 info: Connected to MongoDB
+2024-11-11 23:31:00 info: Database backup saved to backup/users_2024-11-11_23-31-00.json
+2024-11-11 23:31:01 info: Server running on http://localhost:3001
+2024-11-11 23:31:01 info: Connected to MongoDB
+2024-11-11 23:32:00 info: Database backup saved to backup/users_2024-11-11_23-32-00.json
+2024-11-11 23:32:01 info: Server running on http://localhost:3001
+2024-11-11 23:32:01 info: Connected to MongoDB
+2024-11-11 23:33:00 info: Database backup saved to backup/users_2024-11-11_23-33-00.json
+2024-11-11 23:33:02 info: Server running on http://localhost:3001
+2024-11-11 23:33:02 info: Connected to MongoDB
+2024-11-11 23:34:00 info: Database backup saved to backup/users_2024-11-11_23-34-00.json
+2024-11-11 23:34:01 info: Server running on http://localhost:3001
+2024-11-11 23:34:01 info: Connected to MongoDB
+2024-11-11 23:35:00 info: Database backup saved to backup/users_2024-11-11_23-35-00.json
+2024-11-11 23:35:01 info: Server running on http://localhost:3001
+2024-11-11 23:35:01 info: Connected to MongoDB
+2024-11-11 23:36:00 info: Database backup saved to backup/users_2024-11-11_23-36-00.json
+2024-11-11 23:36:01 info: Server running on http://localhost:3001
+2024-11-11 23:36:01 info: Connected to MongoDB
+2024-11-11 23:37:00 info: Database backup saved to backup/users_2024-11-11_23-37-00.json
+2024-11-11 23:37:01 info: Server running on http://localhost:3001
+2024-11-11 23:37:01 info: Connected to MongoDB
+2024-11-11 23:38:00 info: Database backup saved to backup/users_2024-11-11_23-38-00.json
+2024-11-11 23:38:01 info: Server running on http://localhost:3001
+2024-11-11 23:38:01 info: Connected to MongoDB
+2024-11-11 23:39:00 info: Database backup saved to backup/users_2024-11-11_23-39-00.json
+2024-11-11 23:39:02 info: Server running on http://localhost:3001
+2024-11-11 23:39:02 info: Connected to MongoDB
+2024-11-11 23:40:00 info: Database backup saved to backup/users_2024-11-11_23-40-00.json
+2024-11-11 23:40:01 info: Server running on http://localhost:3001
+2024-11-11 23:40:01 info: Connected to MongoDB
+2024-11-11 23:41:00 info: Database backup saved to backup/users_2024-11-11_23-41-00.json
+2024-11-11 23:41:01 info: Server running on http://localhost:3001
+2024-11-11 23:41:01 info: Connected to MongoDB
+2024-11-11 23:42:01 info: Database backup saved to backup/users_2024-11-11_23-42-01.json
+2024-11-11 23:42:02 info: Server running on http://localhost:3001
+2024-11-11 23:42:02 info: Connected to MongoDB
+2024-11-11 23:43:00 info: Database backup saved to backup/users_2024-11-11_23-43-00.json
+2024-11-11 23:43:01 info: Server running on http://localhost:3001
+2024-11-11 23:43:01 info: Connected to MongoDB
+2024-11-11 23:44:00 info: Database backup saved to backup/users_2024-11-11_23-44-00.json
+2024-11-11 23:44:01 info: Server running on http://localhost:3001
+2024-11-11 23:44:01 info: Connected to MongoDB
+2024-11-11 23:45:00 info: Database backup saved to backup/users_2024-11-11_23-45-00.json
+2024-11-11 23:45:01 info: Server running on http://localhost:3001
+2024-11-11 23:45:01 info: Connected to MongoDB
+2024-11-11 23:46:00 info: Database backup saved to backup/users_2024-11-11_23-46-00.json
+2024-11-11 23:46:01 info: Server running on http://localhost:3001
+2024-11-11 23:46:01 info: Connected to MongoDB
+2024-11-11 23:47:00 info: Database backup saved to backup/users_2024-11-11_23-47-00.json
+2024-11-11 23:47:01 info: Server running on http://localhost:3001
+2024-11-11 23:47:02 info: Connected to MongoDB
+2024-11-11 23:48:00 info: Database backup saved to backup/users_2024-11-11_23-48-00.json
+2024-11-11 23:48:01 info: Server running on http://localhost:3001
+2024-11-11 23:48:01 info: Connected to MongoDB
+2024-11-11 23:49:00 info: Database backup saved to backup/users_2024-11-11_23-49-00.json
+2024-11-11 23:49:01 info: Server running on http://localhost:3001
+2024-11-11 23:49:01 info: Connected to MongoDB
+2024-11-11 23:50:00 info: Database backup saved to backup/users_2024-11-11_23-50-00.json
+2024-11-11 23:50:01 info: Server running on http://localhost:3001
+2024-11-11 23:50:01 info: Connected to MongoDB
+2024-11-11 23:51:00 info: Database backup saved to backup/users_2024-11-11_23-51-00.json
+2024-11-11 23:51:01 info: Server running on http://localhost:3001
+2024-11-11 23:51:01 info: Connected to MongoDB
+2024-11-11 23:52:00 info: Database backup saved to backup/users_2024-11-11_23-52-00.json
+2024-11-11 23:52:01 info: Server running on http://localhost:3001
+2024-11-11 23:52:01 info: Connected to MongoDB
+2024-11-11 23:53:00 info: Database backup saved to backup/users_2024-11-11_23-53-00.json
+2024-11-11 23:53:02 info: Server running on http://localhost:3001
+2024-11-11 23:53:02 info: Connected to MongoDB
+2024-11-11 23:54:00 info: Database backup saved to backup/users_2024-11-11_23-54-00.json
+2024-11-11 23:54:01 info: Server running on http://localhost:3001
+2024-11-11 23:54:01 info: Connected to MongoDB
+2024-11-11 23:55:00 info: Database backup saved to backup/users_2024-11-11_23-55-00.json
+2024-11-11 23:55:01 info: Server running on http://localhost:3001
+2024-11-11 23:55:01 info: Connected to MongoDB
+2024-11-11 23:56:00 info: Database backup saved to backup/users_2024-11-11_23-56-00.json
+2024-11-11 23:56:02 info: Server running on http://localhost:3001
+2024-11-11 23:56:02 info: Connected to MongoDB
+2024-11-11 23:57:00 info: Database backup saved to backup/users_2024-11-11_23-57-00.json
+2024-11-11 23:57:01 info: Server running on http://localhost:3001
+2024-11-11 23:57:01 info: Connected to MongoDB
+2024-11-11 23:58:00 info: Database backup saved to backup/users_2024-11-11_23-58-00.json
+2024-11-11 23:58:01 info: Server running on http://localhost:3001
+2024-11-11 23:58:01 info: Connected to MongoDB
+2024-11-11 23:59:00 info: Database backup saved to backup/users_2024-11-11_23-59-00.json
+2024-11-11 23:59:02 info: Server running on http://localhost:3001
+2024-11-11 23:59:02 info: Connected to MongoDB
+2024-11-12 00:00:00 info: Database backup saved to backup/users_2024-11-12_00-00-00.json
+2024-11-12 00:00:01 info: Server running on http://localhost:3001
+2024-11-12 00:00:01 info: Connected to MongoDB
+2024-11-12 00:01:00 info: Database backup saved to backup/users_2024-11-12_00-01-00.json
+2024-11-12 00:01:01 info: Server running on http://localhost:3001
+2024-11-12 00:01:01 info: Connected to MongoDB
+2024-11-12 00:02:00 info: Database backup saved to backup/users_2024-11-12_00-02-00.json
+2024-11-12 00:02:01 info: Server running on http://localhost:3001
+2024-11-12 00:02:01 info: Connected to MongoDB
+2024-11-12 00:03:00 info: Database backup saved to backup/users_2024-11-12_00-03-00.json
+2024-11-12 00:03:01 info: Server running on http://localhost:3001
+2024-11-12 00:03:01 info: Connected to MongoDB
+2024-11-12 00:04:00 info: Database backup saved to backup/users_2024-11-12_00-04-00.json
+2024-11-12 00:04:01 info: Server running on http://localhost:3001
+2024-11-12 00:04:01 info: Connected to MongoDB
+2024-11-12 00:05:00 info: Database backup saved to backup/users_2024-11-12_00-05-00.json
+2024-11-12 00:05:01 info: Server running on http://localhost:3001
+2024-11-12 00:05:01 info: Connected to MongoDB
+2024-11-12 00:06:00 info: Database backup saved to backup/users_2024-11-12_00-06-00.json
+2024-11-12 00:06:01 info: Server running on http://localhost:3001
+2024-11-12 00:06:01 info: Connected to MongoDB
+2024-11-12 00:07:00 info: Database backup saved to backup/users_2024-11-12_00-07-00.json
+2024-11-12 00:07:01 info: Server running on http://localhost:3001
+2024-11-12 00:07:01 info: Connected to MongoDB
+2024-11-12 00:08:00 info: Database backup saved to backup/users_2024-11-12_00-08-00.json
+2024-11-12 00:08:01 info: Server running on http://localhost:3001
+2024-11-12 00:08:01 info: Connected to MongoDB
+2024-11-12 00:09:00 info: Database backup saved to backup/users_2024-11-12_00-09-00.json
+2024-11-12 00:09:01 info: Server running on http://localhost:3001
+2024-11-12 00:09:01 info: Connected to MongoDB
+2024-11-12 00:10:00 info: Database backup saved to backup/users_2024-11-12_00-10-00.json
+2024-11-12 00:10:01 info: Server running on http://localhost:3001
+2024-11-12 00:10:01 info: Connected to MongoDB
+2024-11-12 00:11:00 info: Database backup saved to backup/users_2024-11-12_00-11-00.json
+2024-11-12 00:11:01 info: Server running on http://localhost:3001
+2024-11-12 00:11:01 info: Connected to MongoDB
+2024-11-12 00:12:00 info: Database backup saved to backup/users_2024-11-12_00-12-00.json
+2024-11-12 00:12:01 info: Server running on http://localhost:3001
+2024-11-12 00:12:01 info: Connected to MongoDB
+2024-11-12 00:13:00 info: Database backup saved to backup/users_2024-11-12_00-13-00.json
+2024-11-12 00:13:01 info: Server running on http://localhost:3001
+2024-11-12 00:13:01 info: Connected to MongoDB
+2024-11-12 00:14:00 info: Database backup saved to backup/users_2024-11-12_00-14-00.json
+2024-11-12 00:14:01 info: Server running on http://localhost:3001
+2024-11-12 00:14:01 info: Connected to MongoDB
+2024-11-12 00:15:01 info: Database backup saved to backup/users_2024-11-12_00-15-01.json
+2024-11-12 00:15:02 info: Server running on http://localhost:3001
+2024-11-12 00:15:02 info: Connected to MongoDB
+2024-11-12 00:16:00 info: Database backup saved to backup/users_2024-11-12_00-16-00.json
+2024-11-12 00:16:01 info: Server running on http://localhost:3001
+2024-11-12 00:16:01 info: Connected to MongoDB
+2024-11-12 00:17:00 info: Database backup saved to backup/users_2024-11-12_00-17-00.json
+2024-11-12 00:17:01 info: Server running on http://localhost:3001
+2024-11-12 00:17:01 info: Connected to MongoDB
+2024-11-12 00:18:00 info: Database backup saved to backup/users_2024-11-12_00-18-00.json
+2024-11-12 00:18:01 info: Server running on http://localhost:3001
+2024-11-12 00:18:01 info: Connected to MongoDB
+2024-11-12 00:19:00 info: Database backup saved to backup/users_2024-11-12_00-19-00.json
+2024-11-12 00:19:02 info: Server running on http://localhost:3001
+2024-11-12 00:19:02 info: Connected to MongoDB
+2024-11-12 00:20:00 info: Database backup saved to backup/users_2024-11-12_00-20-00.json
+2024-11-12 00:20:01 info: Server running on http://localhost:3001
+2024-11-12 00:20:01 info: Connected to MongoDB
+2024-11-12 00:21:00 info: Database backup saved to backup/users_2024-11-12_00-21-00.json
+2024-11-12 00:21:01 info: Server running on http://localhost:3001
+2024-11-12 00:21:01 info: Connected to MongoDB
+2024-11-12 00:22:00 info: Database backup saved to backup/users_2024-11-12_00-22-00.json
+2024-11-12 00:22:01 info: Server running on http://localhost:3001
+2024-11-12 00:22:01 info: Connected to MongoDB
+2024-11-12 00:23:00 info: Database backup saved to backup/users_2024-11-12_00-23-00.json
+2024-11-12 00:23:01 info: Server running on http://localhost:3001
+2024-11-12 00:23:01 info: Connected to MongoDB
+2024-11-12 00:24:00 info: Database backup saved to backup/users_2024-11-12_00-24-00.json
+2024-11-12 00:24:01 info: Server running on http://localhost:3001
+2024-11-12 00:24:01 info: Connected to MongoDB
+2024-11-12 00:25:00 info: Database backup saved to backup/users_2024-11-12_00-25-00.json
+2024-11-12 00:25:01 info: Server running on http://localhost:3001
+2024-11-12 00:25:01 info: Connected to MongoDB
+2024-11-12 00:26:00 info: Database backup saved to backup/users_2024-11-12_00-26-00.json
+2024-11-12 00:26:01 info: Server running on http://localhost:3001
+2024-11-12 00:26:01 info: Connected to MongoDB
+2024-11-12 00:28:00 info: Database backup saved to backup/users_2024-11-12_00-28-00.json
+2024-11-12 00:28:01 info: Server running on http://localhost:3001
+2024-11-12 00:28:01 info: Connected to MongoDB
+2024-11-12 00:29:00 info: Database backup saved to backup/users_2024-11-12_00-29-00.json
+2024-11-12 00:29:01 info: Server running on http://localhost:3001
+2024-11-12 00:29:01 info: Connected to MongoDB
+2024-11-12 00:30:00 info: Database backup saved to backup/users_2024-11-12_00-30-00.json
+2024-11-12 00:30:01 info: Server running on http://localhost:3001
+2024-11-12 00:30:01 info: Connected to MongoDB
+2024-11-12 00:31:00 info: Database backup saved to backup/users_2024-11-12_00-31-00.json
+2024-11-12 00:31:02 info: Server running on http://localhost:3001
+2024-11-12 00:31:02 info: Connected to MongoDB
+2024-11-12 00:32:00 info: Database backup saved to backup/users_2024-11-12_00-32-00.json
+2024-11-12 00:32:01 info: Server running on http://localhost:3001
+2024-11-12 00:32:02 info: Connected to MongoDB
+2024-11-12 00:33:00 info: Database backup saved to backup/users_2024-11-12_00-33-00.json
+2024-11-12 00:33:01 info: Server running on http://localhost:3001
+2024-11-12 00:33:01 info: Connected to MongoDB
+2024-11-12 00:34:00 info: Database backup saved to backup/users_2024-11-12_00-34-00.json
+2024-11-12 00:34:01 info: Server running on http://localhost:3001
+2024-11-12 00:34:01 info: Connected to MongoDB
+2024-11-12 00:35:01 info: Database backup saved to backup/users_2024-11-12_00-35-01.json
+2024-11-12 00:35:02 info: Server running on http://localhost:3001
+2024-11-12 00:35:02 info: Connected to MongoDB
+2024-11-12 00:36:00 info: Database backup saved to backup/users_2024-11-12_00-36-00.json
+2024-11-12 00:36:01 info: Server running on http://localhost:3001
+2024-11-12 00:36:01 info: Connected to MongoDB
+2024-11-12 00:37:00 info: Database backup saved to backup/users_2024-11-12_00-37-00.json
+2024-11-12 00:37:01 info: Server running on http://localhost:3001
+2024-11-12 00:37:01 info: Connected to MongoDB
+2024-11-12 00:38:00 info: Database backup saved to backup/users_2024-11-12_00-38-00.json
+2024-11-12 00:38:01 info: Server running on http://localhost:3001
+2024-11-12 00:38:01 info: Connected to MongoDB
+2024-11-12 00:39:00 info: Database backup saved to backup/users_2024-11-12_00-39-00.json
+2024-11-12 00:39:02 info: Server running on http://localhost:3001
+2024-11-12 00:39:02 info: Connected to MongoDB
+2024-11-12 00:40:00 info: Database backup saved to backup/users_2024-11-12_00-40-00.json
+2024-11-12 00:40:01 info: Server running on http://localhost:3001
+2024-11-12 00:40:01 info: Connected to MongoDB
+2024-11-12 00:41:00 info: Database backup saved to backup/users_2024-11-12_00-41-00.json
+2024-11-12 00:41:01 info: Server running on http://localhost:3001
+2024-11-12 00:41:01 info: Connected to MongoDB
+2024-11-12 00:42:00 info: Database backup saved to backup/users_2024-11-12_00-42-00.json
+2024-11-12 00:42:01 info: Server running on http://localhost:3001
+2024-11-12 00:42:01 info: Connected to MongoDB
+2024-11-12 00:43:00 info: Database backup saved to backup/users_2024-11-12_00-43-00.json
+2024-11-12 00:43:02 info: Server running on http://localhost:3001
+2024-11-12 00:43:02 info: Connected to MongoDB
+2024-11-12 00:44:00 info: Database backup saved to backup/users_2024-11-12_00-44-00.json
+2024-11-12 00:44:01 info: Server running on http://localhost:3001
+2024-11-12 00:44:01 info: Connected to MongoDB
+2024-11-12 00:45:00 info: Database backup saved to backup/users_2024-11-12_00-45-00.json
+2024-11-12 00:45:01 info: Server running on http://localhost:3001
+2024-11-12 00:45:01 info: Connected to MongoDB
+2024-11-12 00:46:00 info: Database backup saved to backup/users_2024-11-12_00-46-00.json
+2024-11-12 00:46:01 info: Server running on http://localhost:3001
+2024-11-12 00:46:01 info: Connected to MongoDB
+2024-11-12 00:47:00 info: Database backup saved to backup/users_2024-11-12_00-47-00.json
+2024-11-12 00:47:01 info: Server running on http://localhost:3001
+2024-11-12 00:47:01 info: Connected to MongoDB
+2024-11-12 00:48:00 info: Database backup saved to backup/users_2024-11-12_00-48-00.json
+2024-11-12 00:48:01 info: Server running on http://localhost:3001
+2024-11-12 00:48:01 info: Connected to MongoDB
+2024-11-12 00:49:00 info: Database backup saved to backup/users_2024-11-12_00-49-00.json
+2024-11-12 00:49:01 info: Server running on http://localhost:3001
+2024-11-12 00:49:01 info: Connected to MongoDB
+2024-11-12 00:50:00 info: Database backup saved to backup/users_2024-11-12_00-50-00.json
+2024-11-12 00:50:01 info: Server running on http://localhost:3001
+2024-11-12 00:50:01 info: Connected to MongoDB
+2024-11-12 00:51:00 info: Database backup saved to backup/users_2024-11-12_00-51-00.json
+2024-11-12 00:51:01 info: Server running on http://localhost:3001
+2024-11-12 00:51:01 info: Connected to MongoDB
+2024-11-12 00:52:00 info: Database backup saved to backup/users_2024-11-12_00-52-00.json
+2024-11-12 00:52:01 info: Server running on http://localhost:3001
+2024-11-12 00:52:01 info: Connected to MongoDB
+2024-11-12 00:53:00 info: Database backup saved to backup/users_2024-11-12_00-53-00.json
+2024-11-12 00:53:01 info: Server running on http://localhost:3001
+2024-11-12 00:53:01 info: Connected to MongoDB
+2024-11-12 00:54:01 info: Database backup saved to backup/users_2024-11-12_00-54-01.json
+2024-11-12 00:54:02 info: Server running on http://localhost:3001
+2024-11-12 00:54:02 info: Connected to MongoDB
+2024-11-12 00:55:00 info: Database backup saved to backup/users_2024-11-12_00-55-00.json
+2024-11-12 00:55:02 info: Server running on http://localhost:3001
+2024-11-12 00:55:02 info: Connected to MongoDB
+2024-11-12 00:56:00 info: Database backup saved to backup/users_2024-11-12_00-56-00.json
+2024-11-12 00:56:01 info: Server running on http://localhost:3001
+2024-11-12 00:56:01 info: Connected to MongoDB
+2024-11-12 00:57:00 info: Database backup saved to backup/users_2024-11-12_00-57-00.json
+2024-11-12 00:57:02 info: Server running on http://localhost:3001
+2024-11-12 00:57:02 info: Connected to MongoDB
+2024-11-12 00:58:00 info: Database backup saved to backup/users_2024-11-12_00-58-00.json
+2024-11-12 00:58:01 info: Server running on http://localhost:3001
+2024-11-12 00:58:01 info: Connected to MongoDB
+2024-11-12 00:59:00 info: Database backup saved to backup/users_2024-11-12_00-59-00.json
+2024-11-12 00:59:01 info: Server running on http://localhost:3001
+2024-11-12 00:59:01 info: Connected to MongoDB
+2024-11-12 01:00:00 info: Database backup saved to backup/users_2024-11-12_01-00-00.json
+2024-11-12 01:00:01 info: Server running on http://localhost:3001
+2024-11-12 01:00:01 info: Connected to MongoDB
+2024-11-12 01:01:00 info: Database backup saved to backup/users_2024-11-12_01-01-00.json
+2024-11-12 01:01:01 info: Server running on http://localhost:3001
+2024-11-12 01:01:01 info: Connected to MongoDB
+2024-11-12 01:02:00 info: Database backup saved to backup/users_2024-11-12_01-02-00.json
+2024-11-12 01:02:01 info: Server running on http://localhost:3001
+2024-11-12 01:02:01 info: Connected to MongoDB
+2024-11-12 01:03:00 info: Database backup saved to backup/users_2024-11-12_01-03-00.json
+2024-11-12 01:03:01 info: Server running on http://localhost:3001
+2024-11-12 01:03:01 info: Connected to MongoDB
+2024-11-12 01:04:00 info: Database backup saved to backup/users_2024-11-12_01-04-00.json
+2024-11-12 01:04:01 info: Server running on http://localhost:3001
+2024-11-12 01:04:01 info: Connected to MongoDB
+2024-11-12 01:05:00 info: Database backup saved to backup/users_2024-11-12_01-05-00.json
+2024-11-12 01:05:01 info: Server running on http://localhost:3001
+2024-11-12 01:05:01 info: Connected to MongoDB
+2024-11-12 01:06:00 info: Database backup saved to backup/users_2024-11-12_01-06-00.json
+2024-11-12 01:06:01 info: Server running on http://localhost:3001
+2024-11-12 01:06:01 info: Connected to MongoDB
+2024-11-12 01:07:00 info: Database backup saved to backup/users_2024-11-12_01-07-00.json
+2024-11-12 01:07:01 info: Server running on http://localhost:3001
+2024-11-12 01:07:01 info: Connected to MongoDB
+2024-11-12 01:08:00 info: Database backup saved to backup/users_2024-11-12_01-08-00.json
+2024-11-12 01:08:01 info: Server running on http://localhost:3001
+2024-11-12 01:08:01 info: Connected to MongoDB
+2024-11-12 01:09:00 info: Database backup saved to backup/users_2024-11-12_01-09-00.json
+2024-11-12 01:09:01 info: Server running on http://localhost:3001
+2024-11-12 01:09:01 info: Connected to MongoDB
+2024-11-12 01:10:00 info: Database backup saved to backup/users_2024-11-12_01-10-00.json
+2024-11-12 01:10:01 info: Server running on http://localhost:3001
+2024-11-12 01:10:01 info: Connected to MongoDB
+2024-11-12 01:11:00 info: Database backup saved to backup/users_2024-11-12_01-11-00.json
+2024-11-12 01:11:02 info: Server running on http://localhost:3001
+2024-11-12 01:11:02 info: Connected to MongoDB
+2024-11-12 01:12:00 info: Database backup saved to backup/users_2024-11-12_01-12-00.json
+2024-11-12 01:12:01 info: Server running on http://localhost:3001
+2024-11-12 01:12:01 info: Connected to MongoDB
+2024-11-12 01:13:00 info: Database backup saved to backup/users_2024-11-12_01-13-00.json
+2024-11-12 01:13:01 info: Server running on http://localhost:3001
+2024-11-12 01:13:01 info: Connected to MongoDB
+2024-11-12 01:14:00 info: Database backup saved to backup/users_2024-11-12_01-14-00.json
+2024-11-12 01:14:01 info: Server running on http://localhost:3001
+2024-11-12 01:14:01 info: Connected to MongoDB
+2024-11-12 10:57:27 info: Server running on http://localhost:3001
+2024-11-12 10:57:27 info: Connected to MongoDB
+2024-11-12 10:58:00 info: Database backup saved to backup/users_2024-11-12_10-58-00.json
+2024-11-12 10:58:01 info: Server running on http://localhost:3001
+2024-11-12 10:58:01 info: Connected to MongoDB
+2024-11-12 10:58:51 info: Server running on http://localhost:3001
+2024-11-12 10:58:51 info: Connected to MongoDB
+2024-11-12 11:17:42 info: Server running on http://localhost:3001
+2024-11-12 11:17:42 info: Connected to MongoDB
+2024-11-12 11:17:57 info: Server running on http://localhost:3001
+2024-11-12 11:17:57 info: Connected to MongoDB
+2024-11-12 11:18:00 info: Database backup saved to backup/users_2024-11-12_11-18-00.json
+2024-11-12 11:18:02 info: Server running on http://localhost:3001
+2024-11-12 11:18:02 info: Connected to MongoDB
+2024-11-12 11:18:36 info: Server running on http://localhost:3001
+2024-11-12 11:18:36 info: Connected to MongoDB
+2024-11-12 11:19:00 info: Database backup saved to backup/users_2024-11-12_11-19-00.json
+2024-11-12 11:19:02 info: Server running on http://localhost:3001
+2024-11-12 11:19:02 info: Connected to MongoDB
+2024-11-12 11:19:30 info: Server running on http://localhost:3001
+2024-11-12 11:19:30 info: Connected to MongoDB
+2024-11-12 11:20:12 info: Server running on http://localhost:3001
+2024-11-12 11:20:12 info: Connected to MongoDB
+2024-11-12 11:20:48 info: Server running on http://localhost:3001
+2024-11-12 11:20:48 info: Connected to MongoDB
+2024-11-12 11:20:52 info: Server running on http://localhost:3001
+2024-11-12 11:20:52 info: Connected to MongoDB
+2024-11-12 11:21:20 info: Server running on http://localhost:3001
+2024-11-12 11:21:21 info: Connected to MongoDB
+2024-11-12 11:22:00 info: Database backup saved to backup/users_2024-11-12_11-22-00.json
+2024-11-12 11:22:02 info: Server running on http://localhost:3001
+2024-11-12 11:22:02 info: Connected to MongoDB
+2024-11-12 23:49:15 info: Server running on http://localhost:3001
+2024-11-12 23:49:15 info: Connected to MongoDB
+2024-11-12 23:50:00 info: Database backup saved to backup/users_2024-11-12_23-50-00.json
+2024-11-12 23:50:02 info: Server running on http://localhost:3001
+2024-11-12 23:50:02 info: Connected to MongoDB
+2024-11-12 23:50:39 info: Server running on http://localhost:3001
+2024-11-12 23:50:39 info: Connected to MongoDB
+2024-11-12 23:51:01 info: Database backup saved to backup/users_2024-11-12_23-51-01.json
+2024-11-12 23:51:02 info: Server running on http://localhost:3001
+2024-11-12 23:51:02 info: Connected to MongoDB
+2024-11-12 23:52:00 info: Database backup saved to backup/users_2024-11-12_23-52-00.json
+2024-11-12 23:52:01 info: Server running on http://localhost:3001
+2024-11-12 23:52:01 info: Connected to MongoDB
+2024-11-12 23:56:32 info: Server running on http://localhost:3001
+2024-11-12 23:56:32 info: Connected to MongoDB
+2024-11-12 23:56:42 error: Registration Error: data and salt arguments required
+2024-11-12 23:56:45 error: Registration Error: data and salt arguments required
+2024-11-12 23:57:00 info: Database backup saved to backup/users_2024-11-12_23-57-00.json
+2024-11-13 11:04:01 info: Server running on http://localhost:3001
+2024-11-13 11:04:01 info: Connected to MongoDB
+2024-11-13 11:05:00 info: Database backup saved to backup/users_2024-11-13_11-05-00.json
+2024-11-13 11:05:02 info: Server running on http://localhost:3001
+2024-11-13 11:05:02 info: Connected to MongoDB
+2024-11-13 11:06:00 info: Database backup saved to backup/users_2024-11-13_11-06-00.json
+2024-11-13 11:06:01 info: Server running on http://localhost:3001
+2024-11-13 11:06:01 info: Connected to MongoDB
+2024-11-13 11:06:55 info: Server running on http://localhost:3001
+2024-11-13 11:06:55 info: Connected to MongoDB
+2024-11-13 11:07:05 info: Server running on http://localhost:3001
+2024-11-13 11:07:05 info: Connected to MongoDB
+2024-11-13 11:07:09 info: Server running on http://localhost:3001
+2024-11-13 11:07:09 info: Connected to MongoDB
+2024-11-13 11:08:00 info: Database backup saved to backup/users_2024-11-13_11-08-00.json
+2024-11-13 11:08:01 info: Server running on http://localhost:3001
+2024-11-13 11:08:01 info: Connected to MongoDB
+2024-11-13 11:08:34 info: Server running on http://localhost:3001
+2024-11-13 11:08:34 info: Connected to MongoDB
+2024-11-13 11:08:39 info: Server running on http://localhost:3001
+2024-11-13 11:08:39 info: Connected to MongoDB
+2024-11-13 11:09:01 info: Database backup saved to backup/users_2024-11-13_11-09-01.json
+2024-11-13 11:09:02 info: Server running on http://localhost:3001
+2024-11-13 11:09:02 info: Connected to MongoDB
+2024-11-13 11:10:01 info: Database backup saved to backup/users_2024-11-13_11-10-01.json
+2024-11-13 11:10:02 info: Server running on http://localhost:3001
+2024-11-13 11:10:02 info: Connected to MongoDB
+2024-11-13 11:11:00 info: Database backup saved to backup/users_2024-11-13_11-11-00.json
+2024-11-13 11:11:01 info: Server running on http://localhost:3001
+2024-11-13 11:11:01 info: Connected to MongoDB
+2024-11-13 11:11:23 info: Server running on http://localhost:3001
+2024-11-13 11:11:23 info: Connected to MongoDB
+2024-11-13 11:12:01 info: Database backup saved to backup/users_2024-11-13_11-12-01.json
+2024-11-13 11:12:02 info: Server running on http://localhost:3001
+2024-11-13 11:12:02 info: Connected to MongoDB
+2024-11-13 11:13:00 info: Database backup saved to backup/users_2024-11-13_11-13-00.json
+2024-11-13 11:13:02 info: Server running on http://localhost:3001
+2024-11-13 11:13:02 info: Connected to MongoDB
+2024-11-13 11:13:57 info: Server running on http://localhost:3001
+2024-11-13 11:13:57 info: Connected to MongoDB
+2024-11-13 11:14:00 info: Database backup saved to backup/users_2024-11-13_11-14-00.json
+2024-11-13 11:14:01 info: Server running on http://localhost:3001
+2024-11-13 11:14:01 info: Connected to MongoDB
+2024-11-13 11:14:10 info: Server running on http://localhost:3001
+2024-11-13 11:14:10 info: Connected to MongoDB
+2024-11-13 11:16:23 info: Server running on http://localhost:3001
+2024-11-13 11:16:23 info: Connected to MongoDB
+2024-11-13 11:16:27 info: Server running on http://localhost:3001
+2024-11-13 11:16:27 info: Connected to MongoDB
+2024-11-13 11:16:55 info: Server running on http://localhost:3001
+2024-11-13 11:16:55 info: Connected to MongoDB
+2024-11-13 11:18:00 info: Server running on http://localhost:3001
+2024-11-13 11:18:00 info: Connected to MongoDB
+2024-11-13 11:18:51 info: Server running on http://localhost:3001
+2024-11-13 11:18:51 info: Connected to MongoDB
+2024-11-13 11:22:22 info: Server running on http://localhost:3001
+2024-11-13 11:22:22 info: Connected to MongoDB
+2024-11-13 11:22:40 info: Server running on http://localhost:3001
+2024-11-13 11:22:40 info: Connected to MongoDB
+2024-11-13 11:23:20 info: Server running on http://localhost:3001
+2024-11-13 11:23:20 info: Connected to MongoDB
+2024-11-13 11:23:57 info: Server running on http://localhost:3001
+2024-11-13 11:23:57 info: Connected to MongoDB
+2024-11-13 11:25:18 info: Server running on http://localhost:3001
+2024-11-13 11:25:18 info: Connected to MongoDB
+2024-11-13 11:28:14 info: Server running on http://localhost:3001
+2024-11-13 11:28:14 info: Connected to MongoDB

@@ -1,0 +1,23 @@
+2024-11-08 14:45:23 error: An error occurred: Test error for logging
+2024-11-08 14:53:45 error: An error occurred: Test error for logging
+2024-11-08 14:54:06 error: Registration failed: Email already exists - shin@mail.com
+2024-11-08 14:54:25 error: An error occurred: Test error for logging
+2024-11-08 14:54:27 error: An error occurred: Test error for logging
+2024-11-08 18:11:31 error: An error occurred: Test error for logging
+2024-11-08 18:24:12 error: An error occurred: Test error for logging
+2024-11-08 18:24:16 error: An error occurred: Test error for logging
+2024-11-08 18:24:22 error: An error occurred: Test error for logging
+2024-11-09 16:19:37 error: An error occurred: Test error for logging
+2024-11-09 23:49:56 error: An error occurred: Test error for logging
+2024-11-10 12:09:24 error: An error occurred: Test error for logging
+2024-11-10 12:10:39 error: An error occurred: Test error for logging
+2024-11-10 12:10:41 error: An error occurred: Test error for logging
+2024-11-10 12:11:00 error: An error occurred: Test error for logging
+2024-11-10 12:11:01 error: An error occurred: Test error for logging
+2024-11-10 12:13:11 error: An error occurred: Test error for logging
+2024-11-10 12:13:41 error: An error occurred: Test error for logging
+2024-11-11 11:34:00 error: Error creating database backup: ENOENT: no such file or directory, open 'backup/users_2024-11-11_11-34-00.json'
+2024-11-11 11:35:00 error: Error creating database backup: ENOENT: no such file or directory, open 'backup/users_2024-11-11_11-35-00.json'
+2024-11-11 11:37:00 error: Error creating database backup: ENOENT: no such file or directory, open ' C:/Users/priya/Desktop/intern/Login Register/backup/users_2024-11-11_11-37-00.json'
+2024-11-12 23:56:42 error: Registration Error: data and salt arguments required
+2024-11-12 23:56:45 error: Registration Error: data and salt arguments required
